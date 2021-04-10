@@ -1,11 +1,11 @@
-Classification Report LogisticRegression
+Classification Report MLPClassifier
 
               precision    recall  f1-score   support
 
            0       0.79      1.00      0.88    197752
            1       0.00      0.00      0.00     45390
-           2       0.00      0.00      0.00      6858
+           2       0.36      0.03      0.05      6858
 
     accuracy                           0.79    250000
-   macro avg       0.26      0.33      0.29    250000
-weighted avg       0.63      0.79      0.70    250000
+   macro avg       0.38      0.34      0.31    250000
+weighted avg       0.64      0.79      0.70    250000

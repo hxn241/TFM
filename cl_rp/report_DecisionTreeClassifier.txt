@@ -2,10 +2,10 @@ Classification Report DecisionTreeClassifier
 
               precision    recall  f1-score   support
 
-           0       0.80      0.99      0.88   1172696
-           1       0.50      0.06      0.11    270377
-           2       0.59      0.13      0.21     41486
+           0       0.79      1.00      0.88    197752
+           1       0.35      0.00      0.00     45390
+           2       0.60      0.02      0.04      6858
 
-    accuracy                           0.79   1484559
-   macro avg       0.63      0.39      0.40   1484559
-weighted avg       0.74      0.79      0.72   1484559
+    accuracy                           0.79    250000
+   macro avg       0.58      0.34      0.31    250000
+weighted avg       0.71      0.79      0.70    250000
