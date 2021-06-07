@@ -1,0 +1,4 @@
+
+Model: BagC 
+Best_Score: 0.8890789485446053
+Best_param: {'classifier__max_features': 1.0, 'classifier__max_samples': 1.0, 'classifier__n_estimators': 20}

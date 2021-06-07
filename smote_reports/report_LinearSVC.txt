@@ -2,10 +2,10 @@ Classification Report LinearSVC
 
               precision    recall  f1-score   support
 
-           0       0.47      0.67      0.55    197100
-           1       0.37      0.03      0.06    197818
-           2       0.49      0.73      0.58    197390
+           0       0.52      0.65      0.58     14492
+           1       0.40      0.18      0.25     14629
+           2       0.48      0.64      0.55     14404
 
-    accuracy                           0.48    592308
-   macro avg       0.44      0.48      0.40    592308
-weighted avg       0.44      0.48      0.40    592308
+    accuracy                           0.49     43525
+   macro avg       0.47      0.49      0.46     43525
+weighted avg       0.47      0.49      0.46     43525
