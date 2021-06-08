@@ -1,3 +1,0 @@
-Model: DecTree 
-Best_Score: 0.8011731258023198
-Best_param: {'classifier__class_weight': None, 'classifier__criterion': 'gini', 'classifier__min_samples_split': 2}

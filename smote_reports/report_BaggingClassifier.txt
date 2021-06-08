@@ -2,10 +2,10 @@ Classification Report BaggingClassifier
 
               precision    recall  f1-score   support
 
-           0       0.94      0.96      0.95     14492
-           1       0.83      0.85      0.84     14629
-           2       0.87      0.84      0.85     14404
+           0       0.94      0.96      0.95     14544
+           1       0.83      0.84      0.84     14366
+           2       0.87      0.85      0.86     14586
 
-    accuracy                           0.88     43525
-   macro avg       0.88      0.88      0.88     43525
-weighted avg       0.88      0.88      0.88     43525
+    accuracy                           0.88     43496
+   macro avg       0.88      0.88      0.88     43496
+weighted avg       0.88      0.88      0.88     43496

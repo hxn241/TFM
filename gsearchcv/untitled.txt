@@ -1,6 +1,0 @@
-DecTree: 0.844126060545763
-DecTree: {'classifier__class_weight': 'balanced', 'classifier__criterion': 'gini', 'classifier__min_samples_split': 2}
-Knn: 0.8007143519712243
-Knn: {'classifier__n_neighbors': 5}
-BagC: 0.8890789485446053
-BagC: {'classifier__max_features': 1.0, 'classifier__max_samples': 1.0, 'classifier__n_estimators': 20}

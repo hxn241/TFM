@@ -1,7 +1,0 @@
-
-Model: DecTree 
-Best_Score: 0.8447355265122461
-Best_param: {'classifier__class_weight': 'balanced', 'classifier__criterion': 'gini', 'classifier__min_samples_split': 2}
-Model: Knn 
-Best_Score: 0.8554175822671267
-Best_param: {'classifier__n_neighbors': 5, 'classifier__weights': 'distance'}
