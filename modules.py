@@ -7,7 +7,7 @@ def num_cat(data,num,cat):
 
 def cat_num(data):
     for i in data.columns:
-        if i == 'Age_of_Vehicle' or i == 'Engine_Capacity_(CC)':
+        if i == 'Age_of_Vehicle' or i == 'Engine_Capacity_(CC)' or i == "Speed_limit":
             data[i] = data[i].astype('int64')
         else:
             data[i] = data[i].astype('category')
@@ -61,7 +61,7 @@ def lencoder(df_imbalanced):
 
 
 def target_features(data):
-    X = data.drop('Accident_Severity', axis=1)
+    X = data.iloc[:,1:12]
     y = data['Accident_Severity']
     return X,y
 
