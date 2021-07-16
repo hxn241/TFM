@@ -1,2 +1,2 @@
-# Road Safety UK
-Analysis and predictions about how the circunstancial variables affect the severity of accidents in the UK.
+# Seguridad Vial UK
+Análisis y predicciones de accidentes
