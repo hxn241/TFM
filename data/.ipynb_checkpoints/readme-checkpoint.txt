@@ -1,7 +1,7 @@
 Descargar datos de:
 https://academictorrents.com/details/c7d2d7a91ae3fd0256dd2ba2d7344960cb3c4dbb
 
-Descargar contenido y añadirlo a la carpeta model.
+Descargar contenido y añadirlo a la carpeta models.
 https://drive.google.com/file/d/1BkxJRwGTS_O3yhDjwWsjkDOGxYdHbdZU/view?usp=sharing
 
 Descargar contenido y añadirlo a la carpeta gsearchcv.
