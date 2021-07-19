@@ -9,3 +9,5 @@ Pasos previos a la ejecución:
 - 3 Añadir los archivos linkados que hay en la carpeta data a su carpeta correspondiente.
 - 4 Crear entorno virtual con el comando conda env create -f tfm_environment.yml.
 
+
+
