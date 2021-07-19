@@ -10,6 +10,7 @@ Pasos previos a la ejecución:
 - 4 Crear entorno virtual con el comando **conda env create -f tfm_environment.yml**.
 
 Una vez realizados los pasos ya puede ejecutar los notebooks en orden.
+
 En cuanto al notebook 4,se demora muchas horas en generar los modelos, por eso se han copiado previamente los modelos  a las carpetas pertinentes para ahorrar tiempo en la ejecución.
 
 
