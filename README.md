@@ -19,7 +19,7 @@ Pasos previos a la ejecución:
 
 Una vez realizados los pasos ya puede ejecutar los notebooks en orden.
 
-En cuanto al notebook 4,se demora muchas horas en generar los modelos, por eso se han copiado previamente los modelos  a las carpetas pertinentes para ahorrar tiempo en la ejecución.
+En cuanto al notebook 4,se demora muchas horas en generar los modelos, por eso se han copiado previamente los modelos  a las carpetas pertinentes para ahorrar tiempo en la ejecución e ir directamente al FrontEnd con los modelos generados.
 
 
 
