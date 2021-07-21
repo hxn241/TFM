@@ -5,6 +5,11 @@ El proyecto tiene como objetivo analizar el dataset y predecir la variable Accid
 
 
 El proyecto se organiza en 5 notebooks.
+- Pre-EDA
+- Visualización
+- Feature Engineering
+- Machine Learning
+- FrontEnd
 
 Pasos previos a la ejecución:
 - 1 Clonar repositorio : git clone https://github.com/hxn241/TFM.git
