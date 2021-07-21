@@ -10,6 +10,7 @@ El proyecto se organiza en 5 notebooks.
 - Feature Engineering
 - Machine Learning
 - FrontEnd
+- Test_data
 
 Pasos previos a la ejecución:
 - 1 Clonar repositorio : git clone https://github.com/hxn241/TFM.git
@@ -19,9 +20,6 @@ Pasos previos a la ejecución:
 
 Una vez realizados los pasos ya puede ejecutar los notebooks en orden.
 
-En cuanto al notebook 4,se demora muchas horas en generar los modelos, por eso se han copiado previamente los modelos  a las carpetas pertinentes para ahorrar tiempo en la ejecución e ir directamente al FrontEnd con los modelos generados.
+En cuanto al notebook 4, se demora muchas horas en generar los modelos, por eso en el paso anterior se han copiado previamente los modelos  a las carpetas pertinentes para ahorrar tiempo en la ejecución e ir directamente al FrontEnd con los modelos generados.
 
-
-
-
-
+Antes de ejecutar FrontEnd hay que asegurarse de haber ejecutado antes el notebook test_data, para generar los datos de test.
