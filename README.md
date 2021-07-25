@@ -4,7 +4,7 @@ Análisis y predicciones de accidentes
 El proyecto tiene como objetivo analizar el dataset y predecir la variable Accident_Severity en su categoría Fatal, para poder proporcionar una predicción y ver qué puntos del mapa  són más críticos, con esto se ayudaría la hora de destinar recursos en prevención de accidentes, centrándonos solo en los puntos calientes.
 
 
-El proyecto se organiza en 5 notebooks.
+El proyecto se organiza en 6 notebooks.
 - Pre-EDA
 - Visualización
 - Feature Engineering
