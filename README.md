@@ -23,3 +23,5 @@ Una vez realizados los pasos ya puede ejecutar los notebooks en orden.
 En cuanto al notebook 4, se demora muchas horas en generar los modelos, por eso en el paso anterior se han copiado previamente los modelos  a las carpetas pertinentes para ahorrar tiempo en la ejecución e ir directamente al FrontEnd con los modelos generados.
 
 **Antes de ejecutar FrontEnd hay que asegurarse de haber ejecutado antes el notebook test_data, para generar los datos de test**
+
+Para visualizar el contenido de los notebooks se recomienda utilizar los documentos en HTML.
